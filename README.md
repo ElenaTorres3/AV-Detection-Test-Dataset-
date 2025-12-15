@@ -7,7 +7,7 @@
 [English](#english) | [中文](#中文)
 
 > 🔍 **Inspired by real-world AV evaluation practices** — Learn more in the in-depth analysis:  
-> [Antivirus Comparison: Detection Rates and Algorithms (2024)](https://data-encoder.com/antivirus-comparison-detection-rates-and-algorithms/)
+> [Antivirus Comparison: Detection Rates and Algorithms (2026)](https://data-encoder.com/antivirus-comparison-detection-rates-and-algorithms/)
 
 ---
 
@@ -24,7 +24,7 @@
 > ⚠️ **Note**: This tool uses the **EICAR test file**—a safe, industry-standard string recognized by all antivirus engines as a non-malicious test signature. **No real malware is included or executed.**
 
 ### Why This Matters  
-As highlighted in [Antivirus Comparison: Detection Rates and Algorithms (2024)](https://data-encoder.com/antivirus-comparison-detection-rates-and-algorithms/), even top-tier AVs like Windows Defender and 360 Total Security can be bypassed through obfuscation, encryption, and FUD (Fully Undetectable) techniques. This tool helps you **empirically test detection behavior** in a repeatable, ethical way.
+As highlighted in [Antivirus Comparison: Detection Rates and Algorithms (2026)](https://data-encoder.com/antivirus-comparison-detection-rates-and-algorithms/), even top-tier AVs like Windows Defender and 360 Total Security can be bypassed through obfuscation, encryption, and FUD (Fully Undetectable) techniques. This tool helps you **empirically test detection behavior** in a repeatable, ethical way.
 
 ### Features  
 - 📂 Import test samples from local folders  
