@@ -8,7 +8,7 @@
 
 > 🔍 **Inspired by real-world AV evaluation practices** — Learn more in the in-depth analysis:  
 > [Antivirus Comparison: Detection Rates and Algorithms (2026)](https://data-encoder.com/antivirus-comparison-detection-rates-and-algorithms/)
-
+ 
 ---
 
 ## English
